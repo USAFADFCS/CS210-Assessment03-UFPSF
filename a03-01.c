@@ -8,7 +8,7 @@
 
 #include <stdio.h>
 
-// YOUR CODE GOES HERE
+// YOUR FUNCTION GOES HERE
 
 
 int main() {

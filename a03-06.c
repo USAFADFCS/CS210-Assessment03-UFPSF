@@ -35,7 +35,7 @@ void print_bits(void *ptr, int num_bytes)
     }
 }
 
-// YOUR CODE GOES HERE
+// YOUR FUNCTION GOES HERE
 
 
 int main()
